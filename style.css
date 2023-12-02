@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* .nav1 li{
+    ;
+} */
+
+.btnn{
+    background-color: aquamarine;
+}
+.btn-2{
+    background-color: rgb(148, 255, 127);
+}
+.btn-3{
+    background-color: rgb(170, 127, 255);
+}
+.btn-4{
+    background-color: rgb(255, 127, 206);
+}
+.btn-5{
+    background-color: rgb(255, 174, 127);
+}
+.btn-6{
+    background-color: rgb(255, 255, 127);
+}
+.btn-7{
+    background-color: rgb(255, 142, 127);
+}
+.btn-8{
+    background-color: rgb(255, 127, 146);
+}
